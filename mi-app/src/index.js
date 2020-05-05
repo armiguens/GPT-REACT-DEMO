@@ -15,6 +15,7 @@ class Application extends React.Component {
                     slotSize={[300, 600]}
                 />
             </div>
+            
             <div id="ad-2">
                 <GPT
                     adUnitPath="/4595/nfl.test.open"
