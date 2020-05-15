@@ -1,4 +1,4 @@
-# React-HelloWorld
+# React - Ad Manager - HelloWorld
 Pruebas de ad manager integrado a react
 
 yarn install <-para instalar las librerias declaradas en package.json
